@@ -5,3 +5,9 @@
  she ꒰৯ her ֺ ۪ ׅ　　20
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yh6rvxczhtna16aec4cun96n3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=true&bar_color=ffe2d6&bar_color_cover=false">
+  </a>
+</p>
