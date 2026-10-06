@@ -1,5 +1,4 @@
-<img width="2360" height="637" alt="IMG_5813" src="https://github.com/user-attachments/assets/4a934f8f-ae3d-4a0e-94a1-e6a3e58db07c" />
-
+<img width="2360" height="844" alt="IMG_6288" src="https://github.com/user-attachments/assets/862fc72b-19ea-4652-9bfc-c82c428de716" />
 
 <div align="center">
   　　୧　⠀𓈒⠀　˙　　olivia　　　
